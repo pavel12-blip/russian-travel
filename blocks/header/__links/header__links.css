@@ -1,6 +1,5 @@
-.header__links{
-    display: flex;
-    align-items:flex-end;
-    justify-content: space-between;
-    width: 59px;
+.header__links {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
 }
