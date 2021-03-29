@@ -1,0 +1,5 @@
+.places{
+    max-width: 984px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit );
+}
