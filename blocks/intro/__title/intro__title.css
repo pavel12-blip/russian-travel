@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: 900;
   font-size: 54px;
-  line-height: 58px;
+  line-height: 1.075;
 }
 
 @media screen and (max-width: 767px) {
