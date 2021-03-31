@@ -6,5 +6,4 @@
 ## Инструкция по использованию проекта
 Для более детального изучения кода проекта требуется клонировать [репозиторий](https://github.com/pavel12-blip/russian-travel.git) так же потребуется редактор кода **Visual Studio Code**
 ## Автор
-Автор проекта Павел Лебедев
-[ссылка на проект в Github Pages](https://pavel12-blip.github.io/russian-travel/)
+Автор проекта Павел Лебедев  [ссылка на проект в Github Pages](https://pavel12-blip.github.io/russian-travel/)
