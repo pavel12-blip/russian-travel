@@ -25,6 +25,12 @@
   .place {
     display: flex;
     flex-direction: column;
-    margin-bottom: 48px;
+    align-content: space-between;
+   
+    margin-bottom: 50px;
+  }
+  .place:last-child{
+    margin-bottom: 66px;
   }
 }
+
