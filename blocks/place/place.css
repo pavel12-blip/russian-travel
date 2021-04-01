@@ -28,8 +28,7 @@
     align-content: space-between;
     margin: 0 auto 50px;
   }
-  .place:last-child{
+  .place:last-child {
     margin-bottom: 66px;
   }
 }
-
