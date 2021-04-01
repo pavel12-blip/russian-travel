@@ -28,7 +28,6 @@
 }
 
 .cover__link:hover::after {
-  background-color: black;
   opacity: .8;
   transition: 0.5s linear;
 }
