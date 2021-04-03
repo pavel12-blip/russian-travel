@@ -9,7 +9,6 @@
   .place {
     grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
     grid-gap: 48px 32px;
-    margin-bottom: 84px;
   }
 }
 
@@ -29,6 +28,6 @@
     margin: 0 auto 50px;
   }
   .place:last-child {
-    margin-bottom: 66px;
+    margin-bottom: 48px;
   }
 }
